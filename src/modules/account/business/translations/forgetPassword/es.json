@@ -1,0 +1,19 @@
+{
+  "title": "Olvidaste tu Contraseña",
+  "description": "¿Olvidaste? ¡PhilApp está aquí para ayudarte!",
+  "usernamePlaceholder": "Número de teléfono o correo electrónico",
+  "continue": "Continuar",
+  "errorTitle": "Error",
+  "errorMessage": "Se produjo un error, ¡inténtelo nuevamente más tarde!",
+  "isRequired": "es obligatorio",
+  "invalidEmail": "Correo electrónico inválido",
+  "requiredEmailOrPhone": "Se requiere correo electrónico o teléfono.",
+  "newPassword": "Nueva contraseña",
+  "passwordPlaceholder": "Contraseña:",
+  "sendSecurityCode": "Enviar código de seguridad",
+  "confirmPasswordPlaceholder": "Confirmar contraseña:",
+  "yourPasswordMustHave": "Tu contraseña debe tener:",
+  "passwordRules": "Entre 8 y 30 caracteres, Debe contener letras y números, Al menos 1 mayúscula, Al menos 1 carácter especial (por ejemplo: $, @, &, ?)",
+  "newPasswordMustBeTheSame": "La nueva contraseña debe ser la misma",
+  "confirmNewPassword": "Confirmar nueva contraseña"
+}

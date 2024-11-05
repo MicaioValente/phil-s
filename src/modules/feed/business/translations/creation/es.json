@@ -1,0 +1,13 @@
+{
+    "story": { 
+        "btnNext": "Continuar", 
+        "title": "Añadir a la historia", 
+        "subTitle": "Galería",
+        "btnConfirm": {
+            "story": "Agregar a historia",
+            "highlights": "Agregar a destacados"
+        },
+        "errorTitle": "Error al crear",
+        "errorDescription": "Error al crear la historia, inténtalo de nuevo más tarde"
+    }
+}

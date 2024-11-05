@@ -1,0 +1,22 @@
+{
+  "title": "Vamos a registrarte",
+  "subTitle": "Bienvenido de nuevo, ¡te hemos echado de menos!",
+  "usernamePlaceholder": "Número de teléfono o correo electrónico",
+  "passwordPlaceholder": "Tu contraseña:",
+  "authInputPlaceholder": "Clave pública de autenticación",
+  "forgetPassword": "¿Olvidaste tu contraseña?",
+  "persistDataInInputs": "Recuérdame",
+  "notRegistered": "¿No tienes una cuenta?",
+  "or": "o",
+  "btnSignIn": "Iniciar sesión",
+  "btnSignUp": "Registrarse",
+  "btnSignInGoogle": "Continuar con Google",
+  "btnSignInApple": "Continuar con Apple",
+  "btnAuth": "Contenido",
+  "toastErrorTitle": "Error de inicio de sesión",
+  "toastErrorText": "Comprueba tu contraseña e inténtalo de nuevo",
+  "requiredEmailOrPhone": "Se requiere correo electrónico o teléfono.",
+  "fillAllFields": "Complete todos los campos.",
+  "requiredPassword": "Se requiere contraseña",
+  "enterPassword": "Por favor, ingrese su contraseña"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Cadastre-se conosco",
+  "description": "Crie sua conta no PhilSocial",
+  "continue": "Continuar",
+  "send": "Enviar",
+  "countryCodePlaceholder": "País",
+  "phonePlaceholder": "Nº de Telefone",
+  "passwordPlaceholder": "Senha:",
+  "confirmPasswordPlaceholder": "Confirmar senha:",
+  "yourPasswordMustHave": "Sua senha deve ter:",
+  "passwordRules": "Entre 8 e 30 caracteres, Deve conter letras e números, Pelo menos 1 letra maiúscula, Pelo menos 1 caractere especial (ex: $, @, &, ?)",
+  "errorTitle": "Erro de cadastro",
+  "errorMessage": "Ocorreu um erro, por favor tente novamente mais tarde!",
+  "isRequiredCountry": "Código do país é obrigatório",
+  "passwordsMustBeTheSame": "As senhas devem ser iguais"
+}

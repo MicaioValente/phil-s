@@ -1,0 +1,22 @@
+{
+  "title": "Let’s sign you in",
+  "subTitle": "Welcome back, you’ve been missed!",
+  "usernamePlaceholder": "Phone number or email",
+  "passwordPlaceholder": "Your password:",
+  "authInputPlaceholder": "Auth-Public key",
+  "forgetPassword": "Forgot password?",
+  "persistDataInInputs": "Remember me",
+  "notRegistered": "Dont`t have an account?",
+  "or": "or",
+  "btnSignIn": "Sign In",
+  "btnSignUp": "Sign Up",
+  "btnSignInGoogle": "Continue with Google",
+  "btnSignInApple": "Continue with Apple",
+  "btnAuth": "Contenue",
+  "toastErrorTitle": "Sign In Error",
+  "toastErrorText": "Please check your password and try again",
+  "requiredEmailOrPhone": "Email or phone is required",
+  "fillAllFields": "Fill in all fields",
+  "requiredPassword": "Password is required",
+  "enterPassword": "Please enter your password"
+}

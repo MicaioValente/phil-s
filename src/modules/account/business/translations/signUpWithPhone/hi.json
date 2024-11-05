@@ -1,0 +1,20 @@
+{
+  "title": "हमारे साथ रजिस्टर करें",
+  "description": "PhilSocial के साथ अपना खाता बनाएं",
+  "continue": "जारी रखें",
+  "send": "भेजें",
+  "countryCodePlaceholder": "देश",
+  "phonePlaceholder": "फ़ोन नंबर",
+  "passwordPlaceholder": "पासवर्ड:",
+  "confirmPasswordPlaceholder": "पासवर्ड की पुष्टि करें:",
+  "yourPasswordMustHave": "आपके पासवर्ड में निम्नलिखित होना चाहिए:",
+  "passwordRules": "8 से 30 अक्षरों के बीच, इसमें अक्षर और संख्या होनी चाहिए, कम से कम 1 बड़ा अक्षर, कम से कम 1 विशेष अक्षर (जैसे: $, @, &, ?)",
+  "errorTitle": "साइन अप त्रुटि",
+  "errorMessage": "एक त्रुटि हुई, कृपया बाद में पुनः प्रयास करें!",
+  "isRequiredPhone": "फ़ोन आवश्यक है",
+  "isRequiredCountry": "देश का कोड आवश्यक है",
+  "isRequired": "आवश्यक है",
+  "password": "पासवर्ड",
+  "confirmPassword": "पासवर्ड की पुष्टि करें",
+  "passwordsMustBeTheSame": "पासवर्ड समान होने चाहिए"
+}

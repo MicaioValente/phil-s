@@ -1,0 +1,13 @@
+{
+    "story": {
+        "btnNext": "Continue",
+        "title": "Add to Story",
+        "subTitle": "Galery",
+        "btnConfirm": {
+            "story": "Add to stories",
+            "highlights": "Add to Highlights"
+        },
+        "errorTitle": "Error creating",
+        "errorDescription": "Error creating story, please try again later"
+    }
+}

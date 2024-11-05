@@ -1,0 +1,22 @@
+{
+  "title": "Register with us",
+  "description": "Create your account with PhilSocial",
+  "continue": "Continue",
+  "placeholderEmail": "E-mail:",
+  "placeholderConfirmEmail": "Confirm E-mail:",
+  "passwordPlaceholder": "Password:",
+  "confirmPasswordPlaceholder": "Confirm Password:",
+  "yourPasswordMustHave": "Your password must have:",
+  "passwordRules": "Password must be 8 and 30 characters long, Must contain letters and numbers, At least 1 capital letter, At least 1 special character (i.e.:$,@,&,?)",
+  "errorTitle": "Sign up error",
+  "errorMessage": "An error occurred, please try again later!",
+  "fillInAllFields": "Fill in all fields",
+  "email": "E-mail",
+  "confirmEmail": "Confirm E-mail",
+  "password": "Password",
+  "confirmPassword": "Confirm Password",
+  "isRequired": "is required",
+  "invalidEmail": "Invalid E-mail",
+  "emailsMustBeTheSame": "Emails must be the same",
+  "passwordsMustBeTheSame": "Passwords must be the same"
+}

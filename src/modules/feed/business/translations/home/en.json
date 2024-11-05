@@ -1,0 +1,31 @@
+{
+    "displayCategory1": "Trending Now",
+    "displayCategory2": "For You",
+    "displayCategory3": "Following",
+    "durationVideo": "{{minutes}}:{{seconds}}",
+    "number": "{{count}}",
+    "followMe": "Follow Me",
+    "giveBack": "Give Back",
+    "edit": "Edit",
+    "qrCode": "QR Code",
+    "delete": "Delete",
+    "titleMenuProducts": "Learn, Earn, Play & Give!",
+    "productsDescriptions": {
+        "philEducation": "Learn and Earn",
+        "philWallet":  "Your Non-Custodial wallet",
+        "philGiveBack": "Peer-to-Peer Philantrophy",
+        "philGaming": "Play to Earn",
+        "philStream": "Listen, Watch & Earn",
+        "philMarket": "Buy Products & Earn"
+    },
+    "productActionBtn": {
+        "avaliable": "Open",
+        "notAvaliable": "Coming Soon"
+    },
+    "creationOptions": {
+        "post": "Create a post",
+        "story": "Create a Story",
+        "live": "Go Live",
+        "cause": "Create a Cause"
+    }
+}

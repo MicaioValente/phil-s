@@ -1,0 +1,22 @@
+{
+  "completeProfile": "Complete your profile",
+  "enterDetails": "Enter your details to continue",
+  "firstName": "First name",
+  "lastName": "Last name",
+  "gender": "Gender",
+  "country": "Country",
+  "dateOfBirth": "Date of birth",
+  "male": "Male",
+  "female": "Female",
+  "other": "Other",
+  "continue": "Continue",
+  "completeYourProfile": "Complete your profile",
+  "enterYourDetails": "Enter your details to continue",
+  "errorTitle": "Error",
+  "errorMessage":   "An error occurred while creating your account. Please try again.",
+  "isRequiredFirstName": "First name is required",
+  "isRequiredLastName": "Last name is required",
+  "isRequiredGender": "Gender is required",
+  "isRequiredCountry": "Country is required",
+  "isRequiredDateOfBirth": "Date of birth is required"
+}

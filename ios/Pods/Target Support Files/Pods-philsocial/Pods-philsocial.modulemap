@@ -1,0 +1,6 @@
+module Pods_philsocial {
+  umbrella header "Pods-philsocial-umbrella.h"
+
+  export *
+  module * { export * }
+}

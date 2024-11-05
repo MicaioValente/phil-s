@@ -1,0 +1,13 @@
+current directory: /Users/micaiovalente/Projects/keltech/philsocial/vendor/bundle/ruby/2.7.0/gems/json-2.7.2/ext/json
+/Users/micaiovalente/.rvm/rubies/ruby-2.7.5/bin/ruby -I /Users/micaiovalente/.rvm/rubies/ruby-2.7.5/lib/ruby/2.7.0 -r ./siteconf20240808-40668-3fsqh.rb extconf.rb
+creating Makefile
+
+current directory: /Users/micaiovalente/Projects/keltech/philsocial/vendor/bundle/ruby/2.7.0/gems/json-2.7.2/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/micaiovalente/Projects/keltech/philsocial/vendor/bundle/ruby/2.7.0/gems/json-2.7.2/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/micaiovalente/Projects/keltech/philsocial/vendor/bundle/ruby/2.7.0/gems/json-2.7.2/ext/json
+make "DESTDIR=" install

@@ -1,0 +1,8 @@
+{
+  "title": "Crear Nueva Contraseña",
+  "description": "No compartas tu contraseña con nadie",
+  "continue": "Continuar",
+  "errorTitle": "Error",
+  "errorMessage": "Ocurrió un error, por favor intenta nuevamente más tarde!",
+  "isRequiredCode": "El código es obligatorio"
+}

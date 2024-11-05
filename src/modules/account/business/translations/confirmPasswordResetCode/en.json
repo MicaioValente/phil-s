@@ -1,0 +1,8 @@
+{
+  "title": "Create New Password",
+  "description": "Do not share your password with anyone",
+  "continue": "Continue",
+  "errorTitle": "Error",
+  "errorMessage": "An error occurred, please try again later!",
+  "isRequiredCode": "Code is required"
+}

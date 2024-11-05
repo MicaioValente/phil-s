@@ -1,0 +1,11 @@
+{
+  "checkYourEmail": "अपना ईमेल चेक करें",
+  "accountCreatedSuccessfully": "खाता सफलतापूर्वक बनाया गया",
+  "weHaveSentYou": "हमने आपको एक सक्रियण लिंक भेजा है।",
+  "alsoCheckTheSpamFolder": "(स्पैम फ़ोल्डर भी चेक करें)",
+  "openMyMailClient": "मेरा मेल क्लाइंट खोलें",
+  "alreadyActivateYourAccount": "पहले ही अपना खाता सक्रिय कर लिया है?",
+  "logIn": "लॉगिन करें",
+  "emailTitleCannotBeOpened": "ईमेल नहीं खोला जा सकता",
+  "emailMessageCannotBeOpened": "जांचें कि एप्लिकेशन इंस्टॉल है या नहीं"
+}

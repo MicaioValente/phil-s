@@ -1,0 +1,22 @@
+{
+  "completeProfile":  "Complete su perfil",
+  "enterDetails": "Ingrese sus detalles para continuar",
+  "firstName": "Nombre de pila",
+  "lastName": "Apellido",
+  "gender": "Género", 
+  "country": "País",
+  "dateOfBirth": "Fecha de nacimiento",
+  "male": "Masculino",
+  "female": "Femenino",
+  "other": "Otro",
+  "continue": "Continuar",
+  "completeYourProfile":  "Complete su perfil",
+  "enterYourDetails":  "Ingrese sus detalles para continuar",
+  "errorTitle": "Error",
+  "errorMessage": "Se produjo un error al crear su cuenta. Por favor, intente de nuevo.",
+  "isRequiredFirstName": "El nombre es obligatorio",
+  "isRequiredLastName": "El apellido es obligatorio",
+  "isRequiredGender": "El género es obligatorio",
+  "isRequiredCountry": "El país es obligatorio",
+  "isRequiredDateOfBirth": "La fecha de nacimiento es obligatoria"
+}

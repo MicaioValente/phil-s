@@ -1,0 +1,11 @@
+{
+  "checkYourEmail": "Check your email",
+  "accountCreatedSuccessfully": "Account Created Successfully",
+  "weHaveSentYou": "We've sent you an activation link.",
+  "alsoCheckTheSpamFolder": "(also check the Spam folder)",
+  "openMyMailClient": "Open my mail client",
+  "alreadyActivateYourAccount": "Already activate your account?",
+  "logIn": "LogIn",
+  "emailTitleCannotBeOpened": "Email cannot be opened",
+  "emailMessageCannotBeOpened": "Check if the application is installed"
+}

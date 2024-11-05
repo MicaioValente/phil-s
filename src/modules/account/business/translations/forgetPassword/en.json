@@ -1,0 +1,19 @@
+{
+  "title": "Forget your Password",
+  "description": "Forgot? PhilApp's got your back!",
+  "usernamePlaceholder": "Phone number or email",
+  "passwordPlaceholder": "New password:",
+  "continue": "Continue",
+  "errorTitle": "Error",
+  "errorMessage": "An error occurred, please try again later!",
+  "isRequired": "is required",
+  "invalidEmail": "Invalid E-mail",
+  "requiredEmailOrPhone": "Email or phone is required",
+  "newPassword": "New password",
+  "sendSecurityCode": "Send security code",
+  "confirmPasswordPlaceholder": "Confirm Password:",
+  "yourPasswordMustHave": "Your password must have:",
+  "passwordRules": "Between 8 and 30 characters, It must contain letters and numbers, At least 1 uppercase, At least 1 special character(i.e:$,@,&,?)",
+  "newPasswordMustBeTheSame": "New password must be the same",
+  "confirmNewPassword": "Confirm new password"
+}

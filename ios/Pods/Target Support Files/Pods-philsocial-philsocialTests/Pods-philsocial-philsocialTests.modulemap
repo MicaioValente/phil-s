@@ -1,0 +1,6 @@
+module Pods_philsocial_philsocialTests {
+  umbrella header "Pods-philsocial-philsocialTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

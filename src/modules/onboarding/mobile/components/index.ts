@@ -1,0 +1,10 @@
+export { default as HeaderInterests } from '@modules/onboarding/mobile/components/HeaderInterests';
+export { default as HeaderIntro } from '@modules/onboarding/mobile/components/HeaderIntro';
+export { default as SelectionCard } from '@modules//onboarding/mobile/components/SelectionCard';
+export { default as SliderItem } from '@modules/onboarding/mobile/components/SliderItem';
+export { default as Paginator } from '@modules/onboarding/mobile/components/Paginator';
+export { default as SwitchInterests } from '@modules/onboarding/mobile/components/SwitchInterests';
+export { default as HeaderFindFriendsPermission } from '@modules/onboarding/mobile/components/HeaderFindFriendsPermission';
+export { default as SearchInput } from '@modules/onboarding/mobile/components/SearchInput';
+export { default as DividerContacts } from '@modules/onboarding/mobile/components/DividerContacts';
+export { default as ContactItem } from '@modules/onboarding/mobile/components/ContactItem';

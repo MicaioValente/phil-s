@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="32700.99.1234" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22685"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="DHO-QY-jRh">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Backgroung" translatesAutoresizingMaskIntoConstraints="NO" id="hIN-0O-lXh">
+                                <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                            </imageView>
+                            <label opaque="NO" contentMode="left" misplaced="YES" text="Copyrights 2024 © Philcoin.io" textAlignment="center" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="label2">
+                                <rect key="frame" x="105" y="802" width="182.33333333333337" height="15.666666666666629"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                                <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </label>
+                            <label opaque="NO" contentMode="left" misplaced="YES" text="PHILApp 2.0" textAlignment="center" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="label1">
+                                <rect key="frame" x="148" y="780" width="97" height="20"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="16"/>
+                                <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </label>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" image="LaunchImage" translatesAutoresizingMaskIntoConstraints="NO" id="ydE-2B-eg9">
+                                <rect key="frame" x="-128" y="263" width="649" height="326"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="322" id="7YK-au-Tad"/>
+                                    <constraint firstAttribute="width" constant="336" id="GDT-xq-ZRg"/>
+                                </constraints>
+                            </imageView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="Re4-TI-0Ab"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="ydE-2B-eg9" firstAttribute="centerX" secondItem="DHO-QY-jRh" secondAttribute="centerX" id="3WG-Cp-Qda"/>
+                            <constraint firstAttribute="bottom" secondItem="hIN-0O-lXh" secondAttribute="bottom" id="TwS-cq-9hS"/>
+                            <constraint firstItem="ydE-2B-eg9" firstAttribute="centerY" secondItem="DHO-QY-jRh" secondAttribute="centerY" id="USa-dS-Ldn"/>
+                            <constraint firstItem="hIN-0O-lXh" firstAttribute="leading" secondItem="DHO-QY-jRh" secondAttribute="leading" id="V63-fp-cpP"/>
+                            <constraint firstItem="hIN-0O-lXh" firstAttribute="top" secondItem="DHO-QY-jRh" secondAttribute="top" id="YeD-jI-XNr"/>
+                            <constraint firstItem="label1" firstAttribute="bottom" secondItem="label2" secondAttribute="top" constant="-10" id="bottomLabel1"/>
+                            <constraint firstItem="label2" firstAttribute="bottom" secondItem="Re4-TI-0Ab" secondAttribute="bottom" constant="-20" id="bottomLabel2"/>
+                            <constraint firstItem="label1" firstAttribute="centerX" secondItem="DHO-QY-jRh" secondAttribute="centerX" id="centerX1"/>
+                            <constraint firstItem="label2" firstAttribute="centerX" secondItem="DHO-QY-jRh" secondAttribute="centerX" id="centerX2"/>
+                            <constraint firstAttribute="trailing" secondItem="hIN-0O-lXh" secondAttribute="trailing" id="zk7-Yf-Pni"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="48.091603053435115" y="373.23943661971833"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="Backgroung" width="365.33334350585938" height="792"/>
+        <image name="LaunchImage" width="256" height="256"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

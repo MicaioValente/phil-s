@@ -1,0 +1,15 @@
+{
+  "extends": "@react-native/typescript-config/tsconfig.json",
+  "compilerOptions": {
+    "module": "ESNext",
+    "baseUrl": ".",
+    "paths": {
+      "@*": ["src/*"],
+      "@src*": ["src/*"],
+      "@app": ["app.json"],
+      "@modules": ["src/modules"],
+      "@core": ["src/core"]
+    },
+    "types": ["webpack-env"]
+  }
+}

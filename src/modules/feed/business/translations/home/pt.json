@@ -1,0 +1,31 @@
+{
+    "displayCategory1": "Tendências atuais",
+    "displayCategory2": "Para você",
+    "displayCategory3": "Seguindo",
+    "durationVideo": "{{minutes}}:{{seconds}}",
+    "number": "{{count}}",
+    "followMe": "Me siga",
+    "giveBack": "Retribuir",
+    "edit": "Editar",
+    "qrCode": "Código QR",
+    "delete": "Deletar",
+    "titleMenuProducts": "Aprenda, Ganhe, Jogue e Doe!",
+    "productsDescriptions": {
+        "philEducation": "Aprenda e Ganhe",
+        "philWallet": "Sua carteira sem custódia",
+        "philGiveBack": "Filantrofia ponto a ponto",
+        "philGaming": "Jogue para Ganhar",
+        "philStream": "Ouça, Assista e Ganhe",
+        "philMarket": "Compre Produtos e Ganhe"
+    },
+    "productActionBtn": {
+        "avaliable": "Abrir",
+        "notAvaliable": "Em Breve"
+    },
+    "creationOptions": {
+        "post": "Criar uma publicação",
+        "story": "Criar uma história",
+        "live": "Ir ao vivo",
+        "cause": "Criar uma causa"
+    }
+}

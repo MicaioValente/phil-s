@@ -1,0 +1,31 @@
+{
+    "displayCategory1": "अभी ट्रेंड कर रहा है",
+    "displayCategory2": "आपके लिए",
+    "displayCategory3": "फ़ॉलो कर रहा है",
+    "durationVideo": "{{minutes}}:{{seconds}}",
+    "number": "{{count}}",
+    "followMe": "मेरे पीछे आओ",
+    "giveBack": "वापस देना",
+    "edit": "संपादन करना",
+    "qrCode": "क्यू आर संहिता",
+    "delete": "मिटाना",
+    "titleMenuProducts": "सीखें, कमाएं, खेलें और दें!",
+    "productsDescriptions": {
+        "philEducation": "सीखें और कमाएँ",
+        "philWallet": "आपका नॉन-कस्टोडियल वॉलेट",
+        "philGiveBack": "पीयर-टू-पीयर फिलांट्रॉफी",
+        "philGaming": "खेलें और कमाएँ",
+        "philStream": "सुनें, देखें और कमाएँ",
+        "philMarket": "उत्पाद खरीदें और कमाएँ"
+    },
+    "productActionBtn": {
+        "avaliable": "खुला",
+        "notAvaliable": "जल्द ही आ रहा है"
+    },
+    "creationOptions": {
+        "post": "पोस्ट बनाएँ",
+        "story": "कहानी बनाएँ",
+        "live": "लाइव हो जाएँ",
+        "cause": "कोई कारण बनाएँ"
+    }
+}

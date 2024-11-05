@@ -1,0 +1,13 @@
+{
+  "title": "एक तारीख चुनें",
+  "confirmText": "पुष्टि करें",
+  "cancelText": "रद्द करें",
+  "locale": "US",
+  "second": "से",
+  "minute": "मि",
+  "hour": "घं",
+  "day": "दि",
+  "month": "म",
+  "year": "व",
+  "ago": "पहले"
+}

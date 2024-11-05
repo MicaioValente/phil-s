@@ -1,0 +1,19 @@
+{
+  "title": "Esqueceu sua Senha",
+  "description": "Esqueceu? O PhilApp está aqui para te ajudar!",
+  "usernamePlaceholder": "E-mail ou telefone",
+  "continue": "Continuar",
+  "errorTitle": "Erro",
+  "passwordPlaceholder": "Senha:",
+  "sendSecurityCode": "Enviar código de segurança",
+  "confirmPasswordPlaceholder": "Confirmar senha:",
+  "yourPasswordMustHave": "Sua senha deve ter:",
+  "passwordRules": "Entre 8 e 30 caracteres, Deve conter letras e números, Pelo menos 1 letra maiúscula, Pelo menos 1 caractere especial (ex.: $, @, &, ?)",
+  "errorMessage": "Ocorreu um erro, por favor tente novamente mais tarde!",
+  "isRequired": "é obrigatório",
+  "invalidEmail": "Email inválido",
+  "requiredEmailOrPhone": "Email ou telefone é obrigatório.",
+  "newPassword": "Nova senha",
+  "newPasswordMustBeTheSame": "A confirmação da nova senha deve ser igual",
+  "confirmNewPassword": "Confirmar nova senha"
+}

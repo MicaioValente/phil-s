@@ -1,0 +1,17 @@
+{
+  "title": "Register with us",
+  "description": "We've sent a code to your phone number. Please enter the verification code.",
+  "continue": "Continue",
+  "send": "Send",
+  "countryCodePlaceholder": "Country",
+  "phonePlaceholder": "Phone No.",
+  "passwordPlaceholder": "Password:",
+  "confirmPasswordPlaceholder": "Confirm Password:",
+  "yourPasswordMustHave": "Your password must have:",
+  "passwordRules": "Between 8 and 30 characters, It must contain letters and numbers, At least 1 uppercase, At least 1 special character(i.e:$,@,&,?)",
+  "errorTitle": "Sign up error",
+  "errorMessage": "An error occurred, please try again later!",
+  "isRequiredPhone": "Phone is required",
+  "isRequiredCountry": "Code of country is required",
+  "passwordsMustBeTheSame": "Passwords must be the same"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Select a date",
+  "confirmText": "Confirm",
+  "cancelText": "Cancel",
+  "locale": "US",
+  "second": "s",
+  "minute": "m",
+  "hour": "h",
+  "day": "d",
+  "month": "mo",
+  "year": "y",
+  "ago": "ago",
+}

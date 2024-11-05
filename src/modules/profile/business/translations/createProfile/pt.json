@@ -1,0 +1,23 @@
+{
+  "title": "Cadastre-se conosco",
+  "completeProfile": "Complete seu perfil",
+  "enterDetails": "Insira seus detalhes para continuar",
+  "firstName": "Primeiro nome",
+  "lastName": "Sobrenome",
+  "gender": "Gênero",
+  "country": "País",
+  "dateOfBirth": "Data de nacimiento",
+  "male": "Masculino",
+  "female": "Feminino",
+  "other": "Outro",
+  "continue": "Continuar",
+  "completeYourProfile": "Complete seu perfil",
+  "enterYourDetails":  "Insira seus detalhes para continuar",
+  "errorTitle": "Erro",
+  "errorMessage": "Ocorreu um erro ao criar sua conta. Por favor, tente novamente.",
+  "isRequiredFirstName": "O primeiro nome é obrigatório",
+  "isRequiredLastName": "O sobrenome é obrigatório",
+  "isRequiredGender": "O gênero é obrigatório",
+  "isRequiredCountry": "O país é obrigatório",
+  "isRequiredDateOfBirth": "A data de nascimento é obrigatória"
+}

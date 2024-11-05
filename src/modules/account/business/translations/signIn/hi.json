@@ -1,0 +1,22 @@
+{
+  "title": "आइए आपको साइन इन करें",
+  "subTitle": "आपका स्वागत है, आपको याद किया गया!",
+  "usernamePlaceholder": "फ़ोन नंबर या ईमेल",
+  "passwordPlaceholder": "आपका पासवर्ड:",
+  "authInputPlaceholder": "Auth-Public key",
+  "forgetPassword": "पासवर्ड भूल गए?",
+  "persistDataInInputs": "मुझे याद रखें",
+  "notRegistered": "क्या आपके पास खाता नहीं है?",
+  "or": "या",
+  "btnSignIn": "साइन इन करें",
+  "btnSignUp": "साइन अप करें",
+  "btnSignInGoogle": "Google के साथ जारी रखें",
+  "btnSignInApple": "Apple के साथ जारी रखें",
+  "btnAuth": "जारी रखें",
+  "toastErrorTitle": "साइन इन त्रुटि",
+  "toastErrorText": "कृपया अपना पासवर्ड जांचें और पुनः प्रयास करें",
+  "requiredEmailOrPhone": "ईमेल या फ़ोन आवश्यक है।",
+  "fillAllFields": "सभी फ़ील्ड भरें।",
+  "requiredPassword": "पासवर्ड आवश्यक है",
+  "enterPassword": "कृपया अपना पासवर्ड दर्ज करें"
+}

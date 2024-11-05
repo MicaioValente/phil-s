@@ -1,0 +1,11 @@
+{
+  "checkYourEmail": "Revisa tu correo electrónico",
+  "accountCreatedSuccessfully": "Cuenta creada con éxito",
+  "weHaveSentYou": "Te hemos enviado un enlace de activación.",
+  "alsoCheckTheSpamFolder": "(también revisa la carpeta de Spam)",
+  "openMyMailClient": "Abrir mi cliente de correo",
+  "alreadyActivateYourAccount": "¿Ya activaste tu cuenta?",
+  "logIn": "Iniciar sesión",
+  "emailTitleCannotBeOpened": "No se puede abrir el correo electrónico",
+  "emailMessageCannotBeOpened": "Verifica si la aplicación está instalada"
+}

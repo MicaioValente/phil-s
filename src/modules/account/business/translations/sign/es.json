@@ -1,0 +1,14 @@
+{
+  "title": "Regístrate con nosotros",
+  "description": "Crea tu cuenta con PhilSocial",
+  "signUpWithGoogle": "Regístrate con Google",
+  "signUpWithApple": "Regístrate con Apple",
+  "signUpWithEmail": "Regístrate con correo electrónico",
+  "signUpWithPhone": "Regístrate con teléfono",
+  "bySigningUp": "Al registrarte, aceptas los términos de Phillapp",
+  "termsOfUse": "Términos de Uso",
+  "and": " y ",
+  "privacyPolicy": "Política de Privacidad",
+  "alreadyHaveAnAccount": "¿Ya tienes una cuenta?",
+  "signIn": "Iniciar sesión"
+}

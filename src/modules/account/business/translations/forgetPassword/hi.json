@@ -1,0 +1,19 @@
+{
+  "title": "अपना पासवर्ड भूल गए",
+  "description": "भूल गए? PhilApp आपकी मदद के लिए तैयार है!",
+  "usernamePlaceholder": "फ़ोन नंबर या ईमेल",
+  "continue": "जारी रखें",
+  "errorTitle": "गलती",
+  "errorMessage": "एक त्रुटि घटित हुई है, कृपया बाद में पुन: प्रयास करें!",
+  "isRequired": "आवश्यक है",
+  "passwordPlaceholder": "पासवर्ड:",
+  "sendSecurityCode": "सुरक्षा कोड भेजें",
+  "confirmPasswordPlaceholder": "पासवर्ड की पुष्टि करें:",
+  "yourPasswordMustHave": "आपका पासवर्ड होना चाहिए:",
+  "passwordRules": "8 से 30 अक्षर के बीच, इसमें अक्षर और संख्या शामिल होनी चाहिए, कम से कम 1 बड़ा अक्षर, कम से कम 1 विशेष चरित्र (उदा.: $, @, &, ?)",
+  "invalidEmail": "अमान्य ईमेल",
+  "requiredEmailOrPhone": "ईमेल या फ़ोन आवश्यक है।",
+  "newPassword": "नया पासवर्ड",
+  "newPasswordMustBeTheSame": "नया पासवर्ड वही होना चाहिए",
+  "confirmNewPassword": "नए पासवर्ड की पुष्टि करें"
+}

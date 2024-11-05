@@ -1,0 +1,22 @@
+{
+  "title": "Vamos fazer seu login",
+  "subTitle": "Bem-vindo de volta, você fez falta!",
+  "usernamePlaceholder": "Número de telefone ou e-mail",
+  "passwordPlaceholder": "Sua senha:",
+  "authInputPlaceholder": "Chave pública de autenticação",
+  "forgetPassword": "Esqueceu sua senha?",
+  "persistDataInInputs": "Lembrar de mim",
+  "notRegistered": "Não tem uma conta?",
+  "or": "ou",
+  "btnSignIn": "Entrar",
+  "btnSignUp": "Inscrever-se",
+  "btnSignInGoogle": "Continuar com o Google",
+  "btnSignInApple": "Continuar com a Apple",
+  "btnAuth": "Continuar",
+  "toastErrorTitle": "Erro de login",
+  "toastErrorText": "Verifique sua senha e tente novamente",
+  "requiredEmailOrPhone": "Email ou telefone é obrigatório.",
+  "fillAllFields": "Preencha todos os campos.",
+  "requiredPassword": "Senha é obrigatória",
+  "enterPassword": "Por favor, insira sua senha"
+}
